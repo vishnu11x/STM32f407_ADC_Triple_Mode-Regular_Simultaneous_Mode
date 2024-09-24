@@ -1,0 +1,4 @@
+D:/PROJECTS/Git/STM32f407_ADC_Triple_Mode-Regular_Simultaneous_Mode/TRIPLE_ADC/chip_headers/Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Src/adc.c:14:6:adc_init	8	static
+../Src/adc.c:91:6:adc_start	4	static
+../Src/adc.c:99:6:DMA2_Stream0_IRQHandler	4	static
